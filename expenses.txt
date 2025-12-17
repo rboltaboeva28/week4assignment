@@ -1,0 +1,6 @@
+Lunch,12.50
+Coffee,5.00
+Office Supplies,23.75
+Taxi,10.00
+Coffee,8.25
+Dinner,50.00

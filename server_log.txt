@@ -1,0 +1,7 @@
+[INFO] System started successfully
+[WARNING] Memory usage high
+[ERROR] Database connection failed
+[INFO] User logged in
+[ERROR] Payment gateway timeout
+[INFO] Scheduled backup complete
+[ERROR] Disk space critical

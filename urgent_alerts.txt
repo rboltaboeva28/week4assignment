@@ -1,0 +1,3 @@
+[ERROR] Database connection failed
+[ERROR] Payment gateway timeout
+[ERROR] Disk space critical

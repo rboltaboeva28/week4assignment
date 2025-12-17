@@ -1,0 +1,3 @@
+Item: Apples | Order Amount: 50
+Item: Cherries | Order Amount: 15
+Item: Eggs | Order Amount: 14
